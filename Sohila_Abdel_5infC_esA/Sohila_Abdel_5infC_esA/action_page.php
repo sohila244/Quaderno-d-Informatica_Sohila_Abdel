@@ -21,7 +21,7 @@ else  {
 echo "username:<br>" . $usernmae;
 
 echo "<br>";
-echo "password:<br>" .  $password ;
+echo "password:<br>" .  $passwordX ;
 */
 ?>
 
