@@ -1,3 +1,4 @@
+
 <?php
     /*
     $first_name = $_POST["first_name"];
@@ -16,5 +17,3 @@ echo "Name:<br>" . $first_name ;
 echo "<br>";
 echo "Second name:<br>" .  $second_name ;
 ?>
-
-
